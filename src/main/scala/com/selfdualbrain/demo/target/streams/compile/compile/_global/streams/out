@@ -1,0 +1,271 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:3:26: object blockchain_structure is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.blockchain_structure.AbstractGenesis[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:4:26: object gui is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui.model.SimulationDisplayModel[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:5:26: object gui is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui.{CombinedSimulationStatsPresenter, EventsLogAnalyzerPresenter}[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:6:26: object gui_framework is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui_framework.SwingSessionManager[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:7:26: object network is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.network.NetworkSpeed[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:8:26: object randomness is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.randomness.{IntSequence, LongSequence}[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:9:26: object simulator_engine is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.simulator_engine._[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:10:26: object simulator_engine is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.simulator_engine.config._[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:11:26: object stats is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.stats.{BlockchainSimulationStats, StatsPrinter}[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:12:26: object textout is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.textout.TextOutput[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:13:26: object time is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.time.{TimeDelta, TimeUnit}[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:14:26: object util is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.util.LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:15:12: object slf4j is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.slf4j.LoggerFactory[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:21:21: not found: value LoggerFactory[0m
+[0m[[0m[31merror[0m] [0m[0m  private val log = LoggerFactory.getLogger(s"demo")[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:33:36: not found: type SwingSessionManager[0m
+[0m[[0m[31merror[0m] [0m[0m  private val sessionManager = new SwingSessionManager[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:34:32: not found: type SimulationSetup[0m
+[0m[[0m[31merror[0m] [0m[0m  private var simulationSetup: SimulationSetup = _[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:35:23: not found: type BlockchainSimulationEngine[0m
+[0m[[0m[31merror[0m] [0m[0m  private var engine: BlockchainSimulationEngine = _[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:36:24: not found: type AbstractGenesis[0m
+[0m[[0m[31merror[0m] [0m[0m  private var genesis: AbstractGenesis = _[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:37:22: not found: type BlockchainSimulationStats[0m
+[0m[[0m[31merror[0m] [0m[0m  private var stats: BlockchainSimulationStats = _[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:49:26: not found: type ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m    val proposeStrategy: ProposeStrategyConfig =[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:126:33: not found: type ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleNcbConfig: ProposeStrategyConfig = ProposeStrategyConfig.NaiveCasper([0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:131:45: not found: type ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleLeadersSequenceConfig: ProposeStrategyConfig = ProposeStrategyConfig.RandomLeadersSequenceWithFixedRounds(TimeDelta.seconds(15))[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:133:37: not found: type ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleHighwayConfig: ProposeStrategyConfig = ProposeStrategyConfig.Highway([0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:60:23: not found: type LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m            throw new LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:146:95: not found: type LegacyExperimentConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  def createSimulationConfig(randomSeed: Long, bricksProposeStrategy: ProposeStrategyConfig): LegacyExperimentConfig =[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:146:71: not found: type ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  def createSimulationConfig(randomSeed: Long, bricksProposeStrategy: ProposeStrategyConfig): LegacyExperimentConfig =[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:86:28: not found: type LegacyConfigBasedSimulationSetup[0m
+[0m[[0m[31merror[0m] [0m[0m    simulationSetup  = new LegacyConfigBasedSimulationSetup(config)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:92:33: not found: type SimulationDisplayModel[0m
+[0m[[0m[31merror[0m] [0m[0m    val simulationDisplayModel: SimulationDisplayModel = new SimulationDisplayModel([0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:92:62: not found: type SimulationDisplayModel[0m
+[0m[[0m[31merror[0m] [0m[0m    val simulationDisplayModel: SimulationDisplayModel = new SimulationDisplayModel([0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:93:7: not found: value experimentConfig[0m
+[0m[[0m[31merror[0m] [0m[0m      experimentConfig = config,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:97:7: not found: value expectedNumberOfBricks[0m
+[0m[[0m[31merror[0m] [0m[0m      expectedNumberOfBricks = (numberOfSteps / 1000000 * 7000).toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:98:7: not found: value expectedNumberOfEvents[0m
+[0m[[0m[31merror[0m] [0m[0m      expectedNumberOfEvents = numberOfSteps.toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:99:7: not found: value maxNumberOfAgents[0m
+[0m[[0m[31merror[0m] [0m[0m      maxNumberOfAgents = 100,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:100:7: not found: value lfbChainMaxLengthEstimation[0m
+[0m[[0m[31merror[0m] [0m[0m      lfbChainMaxLengthEstimation = 10000[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:116:33: not found: type EventsLogAnalyzerPresenter[0m
+[0m[[0m[31merror[0m] [0m[0m    val eventsLogAnalyzer = new EventsLogAnalyzerPresenter[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:121:30: not found: type CombinedSimulationStatsPresenter[0m
+[0m[[0m[31merror[0m] [0m[0m    val statsPresenter = new CombinedSimulationStatsPresenter[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:126:57: not found: value ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleNcbConfig: ProposeStrategyConfig = ProposeStrategyConfig.NaiveCasper([0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:127:5: not found: value brickProposeDelays[0m
+[0m[[0m[31merror[0m] [0m[0m    brickProposeDelays = LongSequence.Config.PoissonProcess(lambda = 4, lambdaUnit = TimeUnit.MINUTES, outputUnit = TimeUnit.MICROSECONDS),[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:128:5: not found: value blocksFractionAsPercentage[0m
+[0m[[0m[31merror[0m] [0m[0m    blocksFractionAsPercentage = 4[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:131:69: not found: value ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleLeadersSequenceConfig: ProposeStrategyConfig = ProposeStrategyConfig.RandomLeadersSequenceWithFixedRounds(TimeDelta.seconds(15))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:131:128: not found: value TimeDelta[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleLeadersSequenceConfig: ProposeStrategyConfig = ProposeStrategyConfig.RandomLeadersSequenceWithFixedRounds(TimeDelta.seconds(15))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:133:61: not found: value ProposeStrategyConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  private val exampleHighwayConfig: ProposeStrategyConfig = ProposeStrategyConfig.Highway([0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:134:5: not found: value initialRoundExponent[0m
+[0m[[0m[31merror[0m] [0m[0m    initialRoundExponent = 14,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:135:5: not found: value omegaWaitingMargin[0m
+[0m[[0m[31merror[0m] [0m[0m    omegaWaitingMargin = 10000,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:136:5: not found: value exponentAccelerationPeriod[0m
+[0m[[0m[31merror[0m] [0m[0m    exponentAccelerationPeriod = 20,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:137:5: not found: value exponentInertia[0m
+[0m[[0m[31merror[0m] [0m[0m    exponentInertia = 8,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:138:5: not found: value runaheadTolerance[0m
+[0m[[0m[31merror[0m] [0m[0m    runaheadTolerance = 5,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:139:5: not found: value droppedBricksMovingAverageWindow[0m
+[0m[[0m[31merror[0m] [0m[0m    droppedBricksMovingAverageWindow = TimeDelta.minutes(5),[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:140:5: not found: value droppedBricksAlarmLevel[0m
+[0m[[0m[31merror[0m] [0m[0m    droppedBricksAlarmLevel = 0.05,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:141:5: not found: value droppedBricksAlarmSuppressionPeriod[0m
+[0m[[0m[31merror[0m] [0m[0m    droppedBricksAlarmSuppressionPeriod = 3,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:142:5: not found: value perLaneOrphanRateCalculationWindow[0m
+[0m[[0m[31merror[0m] [0m[0m    perLaneOrphanRateCalculationWindow = 15,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:143:5: not found: value perLaneOrphanRateThreshold[0m
+[0m[[0m[31merror[0m] [0m[0m    perLaneOrphanRateThreshold = 0.2[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:147:5: not found: value LegacyExperimentConfig[0m
+[0m[[0m[31merror[0m] [0m[0m    LegacyExperimentConfig([0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:148:18: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      randomSeed = Some(randomSeed),[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:149:7: not found: value networkModel[0m
+[0m[[0m[31merror[0m] [0m[0m      networkModel = NetworkConfig.SymmetricLatencyBandwidthGraphNetwork([0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:159:7: not found: value downloadBandwidthModel[0m
+[0m[[0m[31merror[0m] [0m[0m      downloadBandwidthModel = DownloadBandwidthConfig.Generic(LongSequence.Config.Uniform(min = NetworkSpeed.megabitsPerSecond(2), max = NetworkSpeed.megabitsPerSecond(20))),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:160:7: not found: value nodesComputingPowerModel[0m
+[0m[[0m[31merror[0m] [0m[0m      nodesComputingPowerModel = LongSequence.Config.Pareto(minValue = 200000, alpha = 1.2),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:161:7: not found: value nodesComputingPowerBaseline[0m
+[0m[[0m[31merror[0m] [0m[0m      nodesComputingPowerBaseline = 200000,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:162:7: not found: value consumptionDelayHardLimit[0m
+[0m[[0m[31merror[0m] [0m[0m      consumptionDelayHardLimit = TimeDelta.seconds(60),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:163:7: not found: value numberOfValidators[0m
+[0m[[0m[31merror[0m] [0m[0m      numberOfValidators = 25,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:164:7: not found: value validatorsWeights[0m
+[0m[[0m[31merror[0m] [0m[0m      validatorsWeights = IntSequence.Config.ParetoWithCap(minValue = 100, maxValue = 1000, alpha = 1.5),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:165:7: not found: value finalizer[0m
+[0m[[0m[31merror[0m] [0m[0m      finalizer = FinalizerConfig.SummitsTheoryV2(ackLevel = 3, relativeFTT = 0.30),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:166:7: not found: value forkChoiceStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m      forkChoiceStrategy = ForkChoiceStrategy.IteratedBGameStartingAtLastFinalized,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:168:7: not found: value disruptionModel[0m
+[0m[[0m[31merror[0m] [0m[0m      disruptionModel = DisruptionModelConfig.VanillaBlockchain,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:169:7: not found: value transactionsStreamModel[0m
+[0m[[0m[31merror[0m] [0m[0m      transactionsStreamModel = TransactionsStreamConfig.IndependentSizeAndExecutionCost([0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:173:7: not found: value blocksBuildingStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m      blocksBuildingStrategy = BlocksBuildingStrategyModel.CostAndSizeLimit(costLimit = 1000000, sizeLimit = 3000000),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:174:7: not found: value brickCreationCostModel[0m
+[0m[[0m[31merror[0m] [0m[0m      brickCreationCostModel = LongSequence.Config.PseudoGaussian(1000, 5000),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:175:7: not found: value brickValidationCostModel[0m
+[0m[[0m[31merror[0m] [0m[0m      brickValidationCostModel = LongSequence.Config.PseudoGaussian(500, 1000),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:176:7: not found: value finalizationCostModel[0m
+[0m[[0m[31merror[0m] [0m[0m      finalizationCostModel = FinalizationCostModel.DefaultPolynomial(a = 1, b = 0, c = 0),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:177:7: not found: value brickHeaderCoreSize[0m
+[0m[[0m[31merror[0m] [0m[0m      brickHeaderCoreSize = headerSize,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:178:7: not found: value singleJustificationSize[0m
+[0m[[0m[31merror[0m] [0m[0m      singleJustificationSize = 32, //corresponds to using 256-bit hashes as brick identifiers and assuming justification is just a list of brick ids[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:179:7: not found: value msgBufferSherlockMode[0m
+[0m[[0m[31merror[0m] [0m[0m      msgBufferSherlockMode = true,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:180:7: not found: value expectedNumberOfBlockGenerations[0m
+[0m[[0m[31merror[0m] [0m[0m      expectedNumberOfBlockGenerations = 2000,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:181:7: not found: value expectedJdagDepth[0m
+[0m[[0m[31merror[0m] [0m[0m      expectedJdagDepth = 10000,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:182:7: not found: value statsSamplingPeriod[0m
+[0m[[0m[31merror[0m] [0m[0m      statsSamplingPeriod = TimeDelta.seconds(10),[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:183:7: not found: value observers[0m
+[0m[[0m[31merror[0m] [0m[0m      observers = Seq([0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:189:28: not found: type StatsPrinter[0m
+[0m[[0m[31merror[0m] [0m[0m    val statsPrinter = new StatsPrinter(TextOutput.overConsole(4, '.'))[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:189:41: not found: value TextOutput[0m
+[0m[[0m[31merror[0m] [0m[0m    val statsPrinter = new StatsPrinter(TextOutput.overConsole(4, '.'))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:209:21: not found: type LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m          throw new LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\Demo1.scala:216:19: not found: type LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m        throw new LineUnreachable[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:3:26: object gui is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui.model.SimulationDisplayModel[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:4:26: object gui_framework is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui_framework.{MvpView, PanelEdge, Presenter}[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:5:26: object gui_framework is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui_framework.layout_dsl.GuiLayoutConfig[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:6:26: object gui_framework is not a member of package com.selfdualbrain[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.selfdualbrain.gui_framework.layout_dsl.components.StaticSplitPanel[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:8:29: not found: type Presenter[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoPresenter extends Presenter[SimulationDisplayModel, SimulationDisplayModel, DemoPresenter, DemoView, Nothing] {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:18:62: not found: type StaticSplitPanel[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoView(val guiLayoutConfig: GuiLayoutConfig) extends StaticSplitPanel(guiLayoutConfig, PanelEdge.SOUTH) with MvpView[SimulationDisplayModel, DemoPresenter] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:18:118: not found: type MvpView[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoView(val guiLayoutConfig: GuiLayoutConfig) extends StaticSplitPanel(guiLayoutConfig, PanelEdge.SOUTH) with MvpView[SimulationDisplayModel, DemoPresenter] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:15:38: not found: type SimulationDisplayModel[0m
+[0m[[0m[31merror[0m] [0m[0m  override def createDefaultModel(): SimulationDisplayModel = ???[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:18:37: not found: type GuiLayoutConfig[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoView(val guiLayoutConfig: GuiLayoutConfig) extends StaticSplitPanel(guiLayoutConfig, PanelEdge.SOUTH) with MvpView[SimulationDisplayModel, DemoPresenter] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Blockchain\101\phouka\src\main\scala\com\selfdualbrain\demo\mvp-demo.scala:18:79: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoView(val guiLayoutConfig: GuiLayoutConfig) extends StaticSplitPanel(guiLayoutConfig, PanelEdge.SOUTH) with MvpView[SimulationDisplayModel, DemoPresenter] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m90 errors found[0m

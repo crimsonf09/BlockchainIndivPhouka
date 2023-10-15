@@ -1,0 +1,19 @@
+~run
+bt
+~run
+bt -J-Xmx4G ~run
+~run
+sbt -J-Xmx4G ~run
+~run
+XX:MaxHeapSize=512m
+~run
+ncb
+~run
+javaOptions += "-Xmx2048m"
+~run
+sbt
+run
+sbt
+run
+cls
+run

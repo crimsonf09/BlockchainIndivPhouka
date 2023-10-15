@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(srcmainscalacomselfdualbrainexperiments, Some(eedbefa3-29ad-4153-ba4a-6899d5b70aae), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: srcmainscalacomselfdualbrainexperiments[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: srcmainscalacomselfdualbrainexperiments[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: srcmainscalacomselfdualbrainexperiments[0m
+[0m[[0m[31merror[0m] [0m[0msrcmainscalacomselfdualbrainexperiments[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
